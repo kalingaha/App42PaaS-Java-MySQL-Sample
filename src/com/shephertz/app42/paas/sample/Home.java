@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.shephertz.app42.paas.sample.db.DBManager;
+import com.shephertz.app42.paas.sample.DBManager;
 
 /**
  * Servlet implementation class Log
